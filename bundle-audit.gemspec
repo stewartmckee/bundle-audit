@@ -26,5 +26,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "bundler-audit"
 
-  spec.add_development_dependency "bundler", "~> 1.15"
+  spec.add_development_dependency "bundler", "~> 2.6.5"
 end
